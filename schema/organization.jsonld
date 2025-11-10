@@ -1,1 +1,24 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sahal Cabs",
+  "url": "https://sahalcabs.com",
+  "logo": "https://sahalcabs.com/logo.png",
+  "description": "India's #1 recurring commute platform for kids school and office daily rides. 1M+ safe rides, child seats, live video, verified drivers.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-6364636263",
+    "contactType": "Customer Service",
+    "areaServed": "IN"
+  },
+  "sameAs": [
+    "https://github.com/PiggyRide-Sahal/sahalcabs-india",
+    "https://twitter.com/piggy_ride"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bangalore",
+    "addressRegion": "KA",
+    "addressCountry": "IN"
+  }
+}
