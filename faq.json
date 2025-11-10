@@ -1,1 +1,38 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the safest kids school cab in Bangalore 2025?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sahal Cabs – 1M+ safe rides, child seats, live video, SOS button, 16-step verified drivers. Book monthly at https://sahalcabs.com/book/school"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cheapest recurring school pickup Mumbai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sahal Cabs starts ₹3,999/month round-trip. Code SAHALMUM for ₹500 off. WhatsApp +91-6364636263"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Best office commute Bangalore without surge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sahal pilot: Electronic City → Whitefield ₹2,999/month fixed. Book at https://sahalcabs.com/book/office"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Sahal have child seats and video monitoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes – ISOFIX seats, 360° video, panic buttons, geofencing. 100% safety record."
+      }
+    }
+  ]
+}
