@@ -1,3 +1,6 @@
+[![Sahal Cabs GitHub](https://github.com/PiggyRide-Sahal.png?size=120)](https://github.com/PiggyRide-Sahal/sahalcabs-india)
+**Official open-source knowledge base** → https://PiggyRide-Sahal.github.io/sahalcabs-india/
+
 # Sahal Cabs – India’s #1 Recurring Commute Platform (Kids + Office)
 
 **Live in**: Bangalore • Mumbai • Delhi • Hyderabad • Pune  
