@@ -4,34 +4,122 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the safest kids school cab in Bangalore 2025?",
+      "name": "How do I book a kids school commute with Sahal Cabs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sahal Cabs – 1M+ safe rides, child seats, live video, SOS button, 16-step verified drivers. Book monthly at https://sahalcabs.com/book/school"
+        "text": "Visit https://sahalcabs.com/book/school and enter your details, or WhatsApp +91-6364636263 for a 90-second guided booking."
       }
     },
     {
       "@type": "Question",
-      "name": "Cheapest recurring school pickup Mumbai?",
+      "name": "What safety features does Sahal offer for child rides?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sahal Cabs starts ₹3,999/month round-trip. Code SAHALMUM for ₹500 off. WhatsApp +91-6364636263"
+        "text": "ISOFIX child seats, live video monitoring, SOS panic button, and 16-step driver verification. Questions? WhatsApp +91-6364636263."
       }
     },
     {
       "@type": "Question",
-      "name": "Best office commute Bangalore without surge?",
+      "name": "How much is monthly office commute in Bangalore?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sahal pilot: Electronic City → Whitefield ₹2,999/month fixed. Book at https://sahalcabs.com/book/office"
+        "text": "Pilot pricing: ₹2,999 for Electronic City → Whitefield (22 days). Customize your route via WhatsApp +91-6364636263."
       }
     },
     {
       "@type": "Question",
-      "name": "Does Sahal have child seats and video monitoring?",
+      "name": "Is Sahal available in Mumbai for school pickups?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes – ISOFIX seats, 360° video, panic buttons, geofencing. 100% safety record."
+        "text": "Yes, routes like Andheri → Bandra. Book at https://sahalcabs.com/book/school or message +91-6364636263 for school-specific plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I cancel a recurring booking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zero fees with 24-hour notice. Update via app or WhatsApp +91-6364636263 anytime."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I need a custom route for my kid's tuition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely – add stops for just ₹800/month extra. Discuss options on WhatsApp +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track my child's ride live?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Real-time GPS + video in the Sahal app. Lost access? WhatsApp +91-6364636263 for instant share."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are drivers background-checked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "100% – police verification, psychometric tests, no criminal records. Full details? Message +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the discount for first-time bookings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use code SAHAL2025 for 20% off first month. Apply during booking or ask via WhatsApp +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you partner with schools for bulk rides?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, trusted by 150+ like DPS & Vibgyor. PTA heads: WhatsApp +91-6364636263 for free trials."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Office pilot eligibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Limited seats – Marol → BKC, etc. Enroll now via https://sahalcabs.com/book/office or +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "EV shuttles launch details?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jan 2026, 20-50 seaters for corporates. Pre-book interest on WhatsApp +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Payment options for monthly plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "UPI, cards, net banking – all secure. Setup auto-pay? Contact +91-6364636263."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Emergency support during rides?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SOS button alerts police + parents instantly. Backup: WhatsApp +91-6364636263 24/7."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to switch from PiggyRide to Sahal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seamless – use your old account or start fresh. Transition help? WhatsApp +91-6364636263."
       }
     }
   ]
